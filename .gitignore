@@ -1,0 +1,24 @@
+# Environnements virtuels
+venv/
+nlp.env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Données (si volumineuses ou sensibles)
+data/
